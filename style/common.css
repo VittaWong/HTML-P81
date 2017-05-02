@@ -1,0 +1,8 @@
+body{
+    background-color:#29313c;
+}
+.public-container{
+    position:relative;
+    margin:0 auto;
+    width:1000px;
+}
